@@ -1,0 +1,8 @@
+.vscode/
+bin/
+lib/
+lib64
+pyvenv.cfg
+wandb/
+__pycache__/
+params.yaml

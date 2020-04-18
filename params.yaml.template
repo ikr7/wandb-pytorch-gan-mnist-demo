@@ -1,0 +1,14 @@
+# number of epochs 
+num_epochs: 250
+# batch size
+batch_size: 1024
+# dimensionality of the latent space
+nz: 100
+# learning rate for discriminator
+d_lr: 0.0002
+# learning rate for generator
+g_lr: 0.0002 
+# use a GPU or not
+cuda: true
+# where to save network snapshots
+log_dir: '/wherever/you/want'

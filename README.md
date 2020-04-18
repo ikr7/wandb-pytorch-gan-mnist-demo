@@ -4,7 +4,7 @@ Generating MNIST handwritten digit images by GANs built on PyTorch and visualize
 
 Demo project can be found [here](https://app.wandb.ai/ikr7/wandb-pytorch-gan-mnist-demo).
 
-![](https://i.imgur.com/GtcoPi1.png)
+![](https://i.imgur.com/uQ3YkJ6.png)
 
 ## Getting Started
 

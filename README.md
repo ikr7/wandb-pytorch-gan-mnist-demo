@@ -2,7 +2,7 @@
 
 Generating MNIST handwritten digit images by GANs built on PyTorch and visualize/track it with [Weights & Biases](https://wandb.com).
 
-Demo project can be found [here](https://app.wandb.ai/ikr7/wandb-pytorch-gan-mnist-demo).
+Demo project can be found [here](https://app.wandb.ai/ikr7/wandb-pytorch-gan-mnist-demo?workspace=user-ikr7).
 
 ![](https://i.imgur.com/uQ3YkJ6.png)
 

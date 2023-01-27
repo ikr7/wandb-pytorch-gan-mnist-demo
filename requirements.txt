@@ -22,7 +22,7 @@ shortuuid==1.0.1
 six==1.14.0
 smmap==3.0.2
 subprocess32==3.5.4
-torch==1.4.0
+torch==1.13.1
 torchvision==0.5.0
 tqdm==4.45.0
 urllib3==1.26.5
